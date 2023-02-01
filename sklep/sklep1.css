@@ -1,0 +1,41 @@
+.d1{
+    float: left;
+padding-left: 31.84%;
+background-color: orange;
+height: 30px;
+padding-top: 10px;
+
+}
+#w1{
+    padding: 0 0 0 70px;
+}
+body{
+    margin: 0;
+}
+.d2{
+    float: left;
+    margin: 10% 10% 0 20%;
+    
+}
+.f1{
+    width: 170px;
+    text-align: center;
+    background-color: rgb(202, 201, 201);
+    margin-top: 25%;
+    padding: 15% 30% 10% 30%;
+    margin-left: 70%;
+    
+}
+.p4{
+    margin-bottom: 215%;
+    font-size: 20px;
+    
+}
+.pp{
+    margin-top: 30%;
+    background-color: rgb(202, 201, 201);
+    padding: 10% 230% 340% 160%;
+    font-size: 20px;
+}
+
+
