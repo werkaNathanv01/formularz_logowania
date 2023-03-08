@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+}
+img{
+    margin: 10px
+}
+.img2{
+    margin-bottom: 70px;
+}
+p{
+    float: left;
+    border: 25px solid rgb(255, 255, 255);
+    background-color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.p11{
+    margin: 10px 380px 0 150px;
+}
+.p22{
+    margin-right: 380px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.pp{
+    padding-right: 8px;
+}
+.aa{
+    color: rgb(62, 193, 216);
+}
+.aaa{
+    margin-left: 5%;
+}
+@media only screen and (max-width: 500px) {
+    p{
+      float: left;
+      margin: 0;
+    }
+
+    .img2{
+        height: fit-content;
+    }
+  }
