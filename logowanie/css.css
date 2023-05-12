@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Lobster&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    background-color: #E8E8E8 ;
+}
+section{
+    border: 6px solid black;
+    align-content: center;
+    background-color: #CCCCFF  ;
+    max-width: 50%;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 25%;
+    border-radius: 10px;
+    padding: 10px;
+}
+#b1{
+    background-image: none;
+    background-color: #CCCCFF  ;
+    text-align: center;
+    
+}
+h1{
+    width: 50%;
+    margin-left: 25%;
+}
+.d1{
+    text-align: left;
+    float: left;
+    margin-top: 40px;
+}
+img{
+    width: 50%;
+    height: 50%;
+    float: left;
+    
+}
+.p1{
+    float: left;
+    max-width: 50%;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.p2{
+   border-left: 1px solid black; 
+   text-align: center;
+   margin-top: 40px;
+   
+   
+}
+hr{
+    color: white;
+}
+button{
+    margin-top: 10px;
+    background-color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    padding: 5px;
+    border: 5px solid rgb(209, 158, 209);
+    border-radius: 10px;
+    
+}
+.s2{
+    text-align: center;
+    border: none;
+     
+}
+.i1{
+    margin-left: 26%;
+}
+.i2{
+    margin: 5% 25% 
+}
+.hh1{
+    text-align: center;
+}
+.aa1{
+    margin-left: 50%;
+    
+}
+.i3{
+    margin-left: 26.4%;
+}
+.hh2{
+    text-align: center;
+    margin-top: 10%;
+}
+.pp1{
+    text-align: center;
+}
+.ii1{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.aaa1{
+    margin-left: 50%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.rr{
+    color: rgb(0, 162, 255);
+}
+.iii{
+    margin-left: 25%;
+}
+progress{
+    margin-left: 43%;
+}
