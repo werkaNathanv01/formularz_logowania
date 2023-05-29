@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+body{
+    background-color: #DCDCDC;
+}
+ol{
+    list-style-type: none;
+    text-align: center;
+    height: 2em;
+    line-height: 2em;
+    
+}
+ol li{
+    float: left;
+    width: 320px;
+    background-color: darkgrey;
+}
+ul{
+    list-style-type: none;
+}
+ol a{
+    display: block;  
+}
+
+ol li:hover{
+    background-color: #d3d3d3;
+}
+ol li ul li a{
+    border-top: 1px solid white;
+    
+}
+ol li ul{
+    display: none;
+}
+ol li:hover ul{
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.h11{
+    margin-top: 100px;
+    text-align: center;
+    width: 40%;
+    padding-left: 30%;
+}
+.img1{
+    margin-left: 250px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+h3{
+    text-align: center;
+    width: 30%;
+    margin: 10px 0 0 37%;
+}
+h2{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+iframe{
+    margin: 20px 0 10px 30%;
+}
+.d1{
+    text-align: center;
+    margin-top: 10px;
+}
+.d1 h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer{
+    float: left;
+    background-color: darkgrey;
+    width: 100%;
+    border-top: 2px solid black;
+}
+.img11{
+    float: left;
+    margin-left: 20px;
+}
+p{
+    font-size: 20px;
+}
+#s1s{
+    max-height: 570px;
+    overflow: scroll;
+}
