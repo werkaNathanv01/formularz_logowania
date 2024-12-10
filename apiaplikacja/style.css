@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+    background-image: url('https://d-pt.ppstatic.pl/kadry/k/r/1/2c/a5/58aeef67ed7c9_o.jpg?1488120321');
+}
+main{
+    background-color: rgb(151, 183, 162);
+    padding: 30px;
+    border-radius: 12px;
+}
+audio{
+    padding-top: 30px;
+}
+#player{
+    padding-top: 30px;
+}
+
